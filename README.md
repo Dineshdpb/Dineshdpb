@@ -41,11 +41,11 @@ In my 3 years of professional experience, I've continually sought to stay ahead 
 
 I'm always open to discussions, collaborations, and connecting with fellow developers. Whether it's about code, tech, or sharing insights from our experiences, let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-green)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dinesh-p-00a98a17a/))
+
 
 ## 📫 How to Reach Me
 
-Feel free to drop me an email at [your.email@example.com](mailto:your.email@example.com). I'm excited to discuss ideas, projects, or anything tech-related!
+Feel free to drop me an email at [dineshprajapatipb@gmail.com](mailto:dineshprajapatipb@gmail.com). I'm excited to discuss ideas, projects, or anything tech-related!
 
 Thanks for stopping by and joining me on this coding journey! 🚀✨
