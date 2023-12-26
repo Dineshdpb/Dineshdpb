@@ -37,7 +37,6 @@ In my 3 years of professional experience, I've continually sought to stay ahead 
 - 📚 Keeping abreast of new technologies and industry trends.
 - 💻 Actively contributing to open-source projects and collaborating with the developer community.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dineshdpb&repo=github-readme-stats)](https://github.com/Dineshdpb/github-readme-stats)
 
 ## 🤝 Let's Connect
 
