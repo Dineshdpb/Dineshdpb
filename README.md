@@ -41,7 +41,7 @@ In my 3 years of professional experience, I've continually sought to stay ahead 
 
 I'm always open to discussions, collaborations, and connecting with fellow developers. Whether it's about code, tech, or sharing insights from our experiences, let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dinesh-p-00a98a17a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dinesh-p-00a98a17a/)
 
 
 ## 📫 How to Reach Me
