@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sofware Engineer
 ----------------
 
-I am software engineer having experience of 3 years(As in 2024). I like to learn new things by my self. I mainly work on Node js ->Frontend: React js (My topmost favourites), Backend: Next Js,Express js, Nest js Database: MySQL, PSQL. I am amazed by learning things which can ease developers life.
+I am software engineer having experience of 3 years. I like to learn new things by my self. I mainly work on Node js ->Frontend: React js (My topmost favourites), Backend: Next Js,Express js, Nest js Database: MySQL, PSQL. I am amazed by learning things which can ease developers life.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dineshprajapatipb@gmail.com](mailto:dineshprajapatipb@gmail.com)
